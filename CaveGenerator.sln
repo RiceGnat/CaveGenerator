@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaveGenerator", "CaveGenerator.csproj", "{9575FFE7-5580-40A9-AF67-8422BB734E58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visualizer", "Visualizer\Visualizer.csproj", "{1E527AC7-C44F-4B87-B2D1-1FFFC64E6B0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9575FFE7-5580-40A9-AF67-8422BB734E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9575FFE7-5580-40A9-AF67-8422BB734E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9575FFE7-5580-40A9-AF67-8422BB734E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9575FFE7-5580-40A9-AF67-8422BB734E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E527AC7-C44F-4B87-B2D1-1FFFC64E6B0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E527AC7-C44F-4B87-B2D1-1FFFC64E6B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E527AC7-C44F-4B87-B2D1-1FFFC64E6B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E527AC7-C44F-4B87-B2D1-1FFFC64E6B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84633170-0C39-4E36-88D7-6B83F9A2FFC2}
+	EndGlobalSection
+EndGlobal
